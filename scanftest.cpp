@@ -2,7 +2,7 @@
 int dasdf() {
     int a;
     printf("input int:");
-    scanf_s("%d", &a);
+    scanf("%d", &a);
     printf("%d", a);
     return 0;
 }
