@@ -5,7 +5,7 @@ int main() {
 
     int temp[a];
     for(int i=0;i<a;i++) {
-        scanf("%d", temp[i]);
+        scanf("%d", &temp[i]);
     }
 
     for(int i=a-1;i>=0;i--) {
